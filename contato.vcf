@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kartnaller Montalvão;Vinicius Tadeu;;Prof.;
+FN:Vinicius Tadeu Kartnaller Montalvão
+ORG:Universidade Federal do Rio de Janeiro;Instituto de Química
+TITLE:Professor Adjunto
+EMAIL;TYPE=INTERNET,WORK:kartnaller@iq.ufrj.br
+TEL;TYPE=CELL,VOICE:+5521992767607
+ADR;TYPE=WORK:;Polo de Química, Bloco C;Avenida Horácio Macedo, 1281 - Cidade Universitária;Rio de Janeiro;RJ;21941-598;Brasil
+item1.URL:https://orcid.org/0000-0003-0261-9811
+item1.X-ABLabel:ORCID
+item2.URL:http://lattes.cnpq.br/5998068116741300
+item2.X-ABLabel:Lattes
+item3.URL:https://kartnaller.github.io
+item3.X-ABLabel:Contato
+END:VCARD
